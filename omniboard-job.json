@@ -8,7 +8,11 @@
     "git@github.com:ag-grid/ag-grid-angular.git",
     "git@github.com:angular/components.git",
     "git@github.com:kreuzerk/ng-sortgrid.git",
-    "git@github.com:angular-extensions/pretty-html-log.git"
+    "git@github.com:angular-extensions/pretty-html-log.git",
+    "git@github.com:ngrx/platform.git",
+    "git@github.com:ngxs/store.git",
+    "git@github.com:salesforce/akita.git",
+    "git@github.com:kamilkisiela/apollo-angular.git"
   ],
   "completed": [],
   "failed": []
