@@ -4,7 +4,7 @@
   "description": "Analyze popular Angular OSS projects",
   "main": "index.js",
   "scripts": {
-    "start": "npx omniboard batch --preserve-queue"
+    "start": "npx @omniboard/analyzer batch --preserve-queue"
   },
   "author": "Tomas Trajan @tomastrajan",
   "license": "MIT",
