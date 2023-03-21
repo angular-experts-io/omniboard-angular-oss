@@ -21,3 +21,5 @@ jobs:
 
       - name: Run batch analysis
         run: npm start
+        env:
+          OMNIBOARD_API_KEY: ${{ secrets.OMNIBOARD_API_KEY }}
