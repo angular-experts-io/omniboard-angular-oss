@@ -9,6 +9,6 @@
   "author": "Tomas Trajan @tomastrajan",
   "license": "MIT",
   "devDependencies": {
-    "@omniboard/analyzer": "^2.23.2"
+    "@omniboard/analyzer": "^2.23.3"
   }
 }
