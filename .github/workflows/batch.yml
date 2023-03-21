@@ -14,5 +14,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+
+      - uses: webfactory/ssh-agent@v0.7.0
+        with:
+          ssh-private-key: ${{ secrets.CHECKOUT_ACTION_GITHUB_SSH_KEY }}
+
       - name: Run batch analysis
         run: npm start
