@@ -1,0 +1,14 @@
+{
+  "name": "omniboard-angular-oss",
+  "version": "1.0.0",
+  "description": "Analyze popular Angular OSS projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx omniboard batch --preserve-queue"
+  },
+  "author": "Tomas Trajan @tomastrajan",
+  "license": "MIT",
+  "devDependencies": {
+    "@omniboard/analyzer": "^2.23.2"
+  }
+}
