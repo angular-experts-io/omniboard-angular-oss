@@ -6,7 +6,9 @@
     "git@github.com:primefaces/primeng.git",
     "git@github.com:akveo/nebular.git",
     "git@github.com:ag-grid/ag-grid-angular.git",
-    "git@github.com:angular/components.git"
+    "git@github.com:angular/components.git",
+    "git@github.com:kreuzerk/ng-sortgrid.git",
+    "git@github.com:angular-extensions/pretty-html-log.git"
   ],
   "completed": [],
   "failed": []
