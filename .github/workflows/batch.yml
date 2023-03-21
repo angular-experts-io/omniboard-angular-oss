@@ -1,0 +1,18 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Batch Analyze
+
+on:
+  push:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  batch-analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run batch analysis
+        run: npm start
