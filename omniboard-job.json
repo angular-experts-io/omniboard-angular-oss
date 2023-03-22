@@ -12,7 +12,8 @@
     "git@github.com:ngrx/platform.git",
     "git@github.com:ngxs/store.git",
     "git@github.com:salesforce/akita.git",
-    "git@github.com:kamilkisiela/apollo-angular.git"
+    "git@github.com:kamilkisiela/apollo-angular.git",
+    "git@github.com:ngbracket/ngx-layout.git"
   ],
   "completed": [],
   "failed": []
