@@ -21,7 +21,15 @@
     "git@github.com:rx-angular/rx-angular.git",
     "git@github.com:salesforce/akita.git",
     "git@github.com:tinkoff/taiga-ui.git",
-    "git@github.com:valor-software/ngx-bootstrap.git"
+    "git@github.com:valor-software/ngx-bootstrap.git",
+    "git@github.com:swimlane/ngx-charts.git",
+    "git@github.com:swimlane/ngx-datatable.git",
+    "git@github.com:jiayihu/ng-animate.git",
+    "git@github.com:akveo/ngx-admin.git",
+    "git@github.com:BuilderIO/mitosis.git",
+    "git@github.com:angular/angularfire.git",
+    "git@github.com:angular/flex-layout.git",
+    "git@github.com:maximegris/angular-electron.git"
   ],
   "completed": [],
   "failed": []
