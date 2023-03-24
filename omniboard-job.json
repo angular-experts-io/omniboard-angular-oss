@@ -22,6 +22,7 @@
     "git@github.com:salesforce/akita.git",
     "git@github.com:tinkoff/taiga-ui.git",
     "git@github.com:valor-software/ngx-bootstrap.git",
+    "git@github.com:valor-software/ng2-charts.git",
     "git@github.com:swimlane/ngx-charts.git",
     "git@github.com:swimlane/ngx-datatable.git",
     "git@github.com:jiayihu/ng-animate.git",
@@ -29,7 +30,13 @@
     "git@github.com:BuilderIO/mitosis.git",
     "git@github.com:angular/angularfire.git",
     "git@github.com:angular/flex-layout.git",
-    "git@github.com:maximegris/angular-electron.git"
+    "git@github.com:maximegris/angular-electron.git",
+    "git@github.com:gothinkster/angular-realworld-example-app.git",
+    "git@github.com:ngx-translate/core.git",
+    "git@github.com:scttcper/ngx-toastr.git",
+    "git@github.com:ngx-formly/ngx-formly.git",
+    "git@github.com:ngneat/transloco.git",
+    "git@github.com:KillerCodeMonkey/ngx-quill.git"
   ],
   "completed": [],
   "failed": []
