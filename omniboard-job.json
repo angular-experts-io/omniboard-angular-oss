@@ -42,6 +42,7 @@
     "git@github.com:ngneat/transloco.git",
     "git@github.com:KillerCodeMonkey/ngx-quill.git"
   ],
-  "completed": [],
+  "analyzed": [],
+  "skipped": [],
   "failed": []
 }
