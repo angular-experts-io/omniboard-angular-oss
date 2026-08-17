@@ -28,6 +28,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Verify Omniboard connection
+        run: npm exec -- omniboard test-connection --silent
+        env:
+          OMNIBOARD_API_KEY: ${{ secrets.OMNIBOARD_API_KEY }}
+
       - name: Configure repository SSH access
         uses: webfactory/ssh-agent@v0.10.0
         with:
