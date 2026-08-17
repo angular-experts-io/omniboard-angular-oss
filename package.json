@@ -4,11 +4,14 @@
   "description": "Analyze popular Angular OSS projects",
   "main": "index.js",
   "scripts": {
-    "start": "npx @omniboard/analyzer batch --preserve-queue"
+    "start": "omniboard batch --preserve-queue"
   },
   "author": "Tomas Trajan @tomastrajan",
   "license": "MIT",
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "devDependencies": {
-    "@omniboard/analyzer": "^2.23.3"
+    "@omniboard/analyzer": "^3.6.1"
   }
 }
